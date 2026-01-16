@@ -2,4 +2,4 @@
 
 | |
 |:-:|
-| <span style="color:#c9d1d9">**voids-cry / noob**</span><br>cybersecurity / c language / hobby |
+| <span style="color:#c9d1d9">**voids-cry**</span><br>cybersecurity / c language |
